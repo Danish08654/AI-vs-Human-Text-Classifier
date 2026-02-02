@@ -1,7 +1,9 @@
-1) Python
-2) Transformers / BERT / Sentence-BERT
-3) Scikit-learn
-4) Text Embeddings
-5) NLP Preprocessing
-6) Semantic Similarity
-7 FastAPI (API deployment)
+Skills / Tools Used:
+
+ 1) Python
+ 2) Transformers / BERT / Sentence-BERT
+ 3) Scikit-learn
+ 4) Text Embeddings
+ 5) NLP Preprocessing
+ 6) Semantic Similarity
+ 7 FastAPI (API deployment)
