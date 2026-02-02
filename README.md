@@ -1,6 +1,7 @@
 Intro:
 The goal of this project was to create a smart plagiarism checker that goes beyond simple text matching.Traditional tools fail when text is
-paraphrased or AI-generated so I built a solution that understands meaning, context, and semantic similarity, not just exact words.
+paraphrased or AI-generated.
+so I built a solution that understands meaning, context, and semantic similarity, not just exact words.
 
 How It Works:
 
@@ -21,5 +22,4 @@ The system can detect:
  1) High accuracy in plagiarism and paraphrasing detection
  2) Robust against AI-generated rewriting
  3) Fast comparison even for long documents
- 4 Detailed similarity report + highlighted suspicious segments
-The final system performs significantly better than simple keyword-based plagiarism tools.
+ 4) Detailed similarity report + highlighted suspicious segments
